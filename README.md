@@ -1,5 +1,5 @@
 This project is about:
-* [making it easier]() for people to send documentation, tips, suggestions, ... related to [Qubes OS](https://www.qubes-os.org/). Git knowledge is a plus but is not a requirement despite the project being hosted on a git platform.
+* [making it easier](https://github.com/Qubes-Community/Qubes-Community/blob/master/docs/no-git-submissions.md) for people to send documentation, tips, suggestions, ... related to [Qubes OS](https://www.qubes-os.org/). Git knowledge is a plus but is not a requirement despite the project being hosted on a git platform.
 * [assisting]() in getting documentation contributions QA'd and submitted to the official qubes-doc [repository](https://github.com/QubesOS/qubes-doc)
 * hosting or linking to [Qubes OS user projects and documentation](https://github.com/Qubes-Community/Qubes-Community) that for some reason do not fit for inclusion in the official project.
 
