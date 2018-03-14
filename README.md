@@ -3,7 +3,7 @@ This project is about:
 * [assisting]() in getting documentation contributions QA'd and submitted to the official qubes-doc [repository](https://github.com/QubesOS/qubes-doc)
 * hosting or linking to [user projects and documentation](https://github.com/Qubes-Community/Qubes-Community) that for some reason do not fit for inclusion in the official project.
 
-**Disclaimer**: this site is run by volunteers. The Qubes OS Project is not affiliated with this site and does not endorse the content of any of these pages. As Qubes OS users, this project's community members obviously focus on security, but there's no guarantee about the content published in this site so use it at your own risks.
+**Disclaimer**: this site is run by volunteers. The Qubes OS Project is not affiliated with this site and does not endorse the content of any of these pages. As Qubes OS users, this project's community members obviously focus on security, but there's no guarantee about the content published in this site so use it at your own risk.
 
 **Other resources**:
 * Qubes OS' official documentation [website](https://www.qubes-os.org/doc/)
