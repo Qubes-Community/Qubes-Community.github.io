@@ -12,7 +12,7 @@ This community project's goals are:
 
 Anyone is welcome to submit content they deem fit for inclusion in this community effort (or potentially in the [official Qubes documentation](https://www.qubes-os.org/doc/)): addition or improvements to documentation, suggestions, tips, typo fixes, one-liners, code/scripts, link to third-party resources, ...
 
-Contributing content is done with [pull requests](https://help.github.com/articles/about-pull-requests).
+Contributing content is done with [pull requests](https://help.github.com/articles/about-pull-requests) or by submitting an issue.
 
 While submitting pull requests is a relatively easy process (see ["learning git"](#learning-git) below), a stated goal of this project is to make it easy for *anyone* to submit content. Contributors who are not familiar with git can simply open a new issue [in the Qubes-Community repository](https://github.com/Qubes-Community/Qubes-Community/issues).  After (optional) discussion in the issue's thread and if the content is deemed fit for submission a community member will create a pull request on your behalf and take care of everything "git"; alternatively - if you prefer - he/she will help you creating your own pull request. Note however that in the former case you'll loose attribution/credit because github doesn't allow transferring a pull request's ownership.
 
