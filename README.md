@@ -1,12 +1,12 @@
 ### About
 
-This project is about:
+This community project's goals are:
 
 * Making it easier for [Qubes OS](https://www.qubes-os.org/) users to send documentation, tips, suggestions and resources (git knowledge is not a requirement despite the project being hosted on github).
 * Assisting in getting documentation contributions QA'd and potentially submitted to the official [qubes-doc](https://github.com/QubesOS/qubes-doc) repository
 * Hosting (or linking to) projects, resources or documentation that for some reason do not fit for inclusion in the official project
 
-**Disclaimer**: this site is run by volunteers. The Qubes OS Project is not affiliated with this site and does not endorse the content of any of these pages. As Qubes OS users, this project's community members obviously focus on security but there's no guarantee about the content published in this site so use it at your own risk.
+**Disclaimer**: this site is run by volunteers. The Qubes OS Project is not affiliated with this site and does not endorse the content of any of these pages. The members of this community are Qubes users and obviously focus on security but there's no guarantee about the content published in this site so use it at your own risk.
 
 ### Contributing
 
@@ -14,7 +14,7 @@ Anyone is welcome to submit content they deem fit for inclusion in this communit
 
 Contributing content is done with [pull requests](https://help.github.com/articles/about-pull-requests).
 
-While submitting pull requests is a relatively easy process (see ["learning git"](#learning-git) below), one goal of this project is to make it easy for *anyone* to submit content. So contributors who are not familiar with git can simply open an issue in the qubes-community repository (if you're viewing this page on github, click the "Issues" tab above and then "New issue"). After (optional) discussion in the issue's thread and if the content is deemed fit for submission a community member will create a pull request on your behalf and take care of everything "git"; alternatively - if you prefer - he/she will help you creating your own pull request. Note however that in the former case you'll loose attribution/credit because github doesn't allow transferring a pull request's ownership.
+While submitting pull requests is a relatively easy process (see ["learning git"](#learning-git) below), a stated goal of this project is to make it easy for *anyone* to submit content. Contributors who are not familiar with git can simply open an issue in the qubes-community repository (if you're viewing this page on github, click the "Issues" tab above and then "New issue"). After (optional) discussion in the issue's thread and if the content is deemed fit for submission a community member will create a pull request on your behalf and take care of everything "git"; alternatively - if you prefer - he/she will help you creating your own pull request. Note however that in the former case you'll loose attribution/credit because github doesn't allow transferring a pull request's ownership.
 
 ### Repositories
 
@@ -27,7 +27,7 @@ There are basically two main repositories in this project:
 GPL is required for any documentation content. Otherwise you're free to use whatever license you see fit when submitting code/programs, provided it fits in the git/fork model. If a license is missing, it is assumed to be GPL. 
 
 <a name="learning-git"></a>
-#### Learning git for further contributions
+### Learning git for further contributions
 
 It would ease the burden on community members if returning contributors learn the few basic git concepts required to submit pull requests themselves.
 
