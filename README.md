@@ -6,8 +6,8 @@ We're a small fully independent volunteer community striving to build, or forwar
 **Our everyday tasks**
 
 * To make it easier for [Qubes OS](https://www.qubes-os.org/) users to send documentation, tips, suggestions and resources (git knowledge is not a requirement despite the project being hosted on github).
-* To assist in getting documentation contributions QA'd and potentially submitted to the official [qubes-doc](https://github.com/QubesOS/qubes-doc) repository
-* To host (or link to) projects, resources or documentation that for some reason do not fit for inclusion in the official project
+* To assist in getting documentation contributions QA'd and potentially submitted to the official [qubes-doc](https://github.com/QubesOS/qubes-doc) repository.
+* To host, or link to projects, resources, documentation, guides, code, or scripts, which are better suited to be distributed in the Community.
 
 **Disclaimer**: this site is run by volunteers. The Qubes OS Project is not affiliated with this site and does not endorse the content of any of these pages. The members of this community are Qubes users and obviously focus on security but there's no guarantee about the content published in this site so use it at your own risk.
 
