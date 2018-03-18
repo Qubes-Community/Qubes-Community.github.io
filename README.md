@@ -1,6 +1,6 @@
 ### 1. About
 
-We're a small fully independent volunteer community striving to build, or forward, end-user content for Qubes OS, such as guides, docs, code, and scripts. The focus on everyday tasks is to come together as a community to build and generate new content, creating value, and gathering new community members to help us archive our goals, leading towards our collective [vision](). Right now we need more people to help us out turning this place from an idea, into a real community hub for end-user Qubes OS content. However we have already started out on a small scale, feel free to take a look around.
+We're a small fully independent volunteer community striving to build, or forward, end-user content for Qubes OS, such as guides, docs, code, and scripts. The focus on everyday tasks is to come together as a community to build and generate new content, creating value, and gathering new community members to help us archive our goals, leading towards our collective [vision](/strategic-statement.md). Right now we need more people to help us out turning this place from an idea, into a real community hub for end-user Qubes OS content. However we have already started out on a small scale, feel free to take a look around.
 
 
 **Our everyday tasks**
