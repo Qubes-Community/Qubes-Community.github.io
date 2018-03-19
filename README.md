@@ -15,7 +15,7 @@ The reviewer team is quite small at the moment so any help is warmly welcomed !
 
 ### 2. Contributing
 
-Anyone is welcome to submit content they deem fit for inclusion in this community effort (or potentially in the official Qubes documentation). As Qubes OS users we value privacy and security so please keep the project's collective vision [here](/strategic-statement.md) in mind when submitting new content.
+Anyone is welcome to submit content they deem fit for inclusion in this community effort (or potentially in the official Qubes documentation). As Qubes OS users we value privacy and security so please keep the project's [collective vision](/strategic-statement.md) in mind when submitting new content.
 
 Contributing content is done:
 
