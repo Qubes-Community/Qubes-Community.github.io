@@ -1,14 +1,15 @@
 ### 1. About
 
 We are an independent volunteer community striving to build and improve end-user content for [Qubes OS](https://www.qubes-os.org/), such as guides, documentation, code & scripts, tips, ...
-The reviewer team is quite small at the moment, any help is warmly welcome !
 
-**This project focuses on**
+**This project's tasks are**
 
-* making it easier for Qubes OS users to submit documentation, tips, suggestions and more generally, any resource related to the Qubes OS project. Despite the project being hosted on GitHub, knowing git is not a requirement.
-* assisting in getting documentation contributions QA'd and potentially submitted to the [official QubesOS documentation](https://www.qubes-os.org/doc/).
-* hosting, or linking to projects, documentation, code, or resources, which are better suited to be distributed in the Community.
-* building a larger community around the Qubes OS project.
+* to make it easier for Qubes OS users to submit documentation, tips, suggestions and more generally, any resource related to the Qubes OS project. Despite the project being hosted on GitHub, knowing git is not a requirement.
+* to assist in getting documentation contributions QA'd and potentially submitted to the [official QubesOS documentation](https://www.qubes-os.org/doc/).
+* to host, or link to projects, documentation, code, or resources, which are better suited to be distributed in the Community.
+* to build a larger community around the Qubes OS project.
+
+The reviewer team is quite small at the moment so any help is warmly welcomed !
 
 **Disclaimer**: this site is run by volunteers. The Qubes OS Project is not affiliated with this site and does not endorse the content of any of these pages. The members of this community are Qubes users so they obviously focus on security but there's no guarantee about the content published in this site so use it at your own risk.
 
