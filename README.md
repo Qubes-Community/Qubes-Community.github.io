@@ -20,11 +20,11 @@ Anyone is welcome to submit content they deem fit for inclusion in this communit
 Contributing content is done:
 
 - by submitting pull requests (a relatively easy process - see ["learning git"](#learning-git) below).
-- or, for users not comfortable with git, by [creating a new an issue](https://github.com/Qubes-Community/Contents/issues) in the ['Contents']((https://github.com/Qubes-Community/Contents) repository. After optional discussion in the issue's thread and after the content is deemed fit for submission a community member will create a pull request on your behalf and take care of everything "git"; alternatively - if you prefer - he/she will help you creating your own pull request. Note however that in the former case you'll loose attribution/credit because github doesn't allow transferring a pull request's ownership.
+- or, for users not comfortable with git, by [creating a new an issue](https://github.com/Qubes-Community/Contents/issues) in the ['Contents'](https://github.com/Qubes-Community/Contents) repository. After optional discussion in the issue's thread and after the content is deemed fit for submission a community member will create a pull request on your behalf and take care of everything "git"; alternatively - if you prefer - he/she will help you creating your own pull request. Note however that in the former case you'll loose attribution/credit because github doesn't allow transferring a pull request's ownership.
 
 ### 3. Repositories
 
-The ['Contents']((https://github.com/Qubes-Community/Contents) repository is where most pull requests and issues are expected to be submitted, with the following exceptions:
+The ['Contents'](https://github.com/Qubes-Community/Contents) repository is where most pull requests and issues are expected to be submitted, with the following exceptions:
 
 - submitting pull requests to the [forked qubes-doc repository](https://github.com/Qubes-Community/qubes-doc): for contributors who want to submit content to the [official qubes-doc repository](https://github.com/QubesOS/qubes-doc) but who would like to get preliminary feedback/QA from the community.
 - submitting pull requests or issues related/specific to the various project repositories living under this project.
