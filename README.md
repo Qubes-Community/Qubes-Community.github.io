@@ -13,7 +13,17 @@ The reviewer team is quite small at the moment so any help is warmly welcomed !
 
 **Disclaimer**: this site is run by volunteers. The Qubes OS Project is not affiliated with this site and does not endorse the content of any of these pages. The members of this community are Qubes users so they obviously focus on security but there's no guarantee about the content published in this site so use it at your own risk.
 
-### 2. Contributing
+### 2. Content
+
+User contributed Documentation and code/resources are respectively in the `docs/` and `code/` subfolders of the ['Contents'](https://github.com/Qubes-Community/Contents) repository. Ongoing submissions, reviews and QA are in [Issues](https://github.com/Qubes-Community/Contents/issues) and [pull requests](https://github.com/Qubes-Community/Contents/pulls) before new content is accepted  in the repository (see section [Contributing](#contributing) below).
+
+Documentation planned for submission to the [official qubes-doc repository](https://github.com/QubesOS/qubes-doc) is discussed in [pull requests](https://github.com/Qubes-Community/qubes-doc/pulls) of our [forked qubes-doc](https://github.com/Qubes-Community/qubes-doc) repository.
+
+The project hosts various projects which have their own repositories. You can search them through the project's [main github page](https://github.com/Qubes-Community). Short descriptions of each project are available in [this readme](https://github.com/Qubes-Community/Contents/blob/master/projects-repos.md).
+
+
+<a name="contributing"></a>
+### 3. Contributing
 
 Anyone is welcome to submit content they deem fit for inclusion in this community effort (or potentially in the official Qubes documentation). As Qubes OS users we value privacy and security so please keep the project's [collective vision](/strategic-statement.md) in mind when submitting new content.
 
@@ -21,8 +31,6 @@ Contributing content is done:
 
 - by submitting pull requests (a relatively easy process - see ["learning git"](#learning-git) below).
 - or, for users not comfortable with git, by [creating a new an issue](https://github.com/Qubes-Community/Contents/issues) in the ['Contents'](https://github.com/Qubes-Community/Contents) repository. After optional discussion in the issue's thread and after the content is deemed fit for submission a community member will create a pull request on your behalf and take care of everything "git"; alternatively - if you prefer - he/she will help you creating your own pull request. Note however that in the former case you'll loose attribution/credit because github doesn't allow transferring a pull request's ownership.
-
-### 3. Repositories
 
 The ['Contents'](https://github.com/Qubes-Community/Contents) repository is where most pull requests and issues are expected to be submitted, with the following exceptions:
 
