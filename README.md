@@ -19,7 +19,7 @@ User contributed Documentation and code/resources are respectively in the `docs/
 
 Documentation planned for submission to the [official qubes-doc repository](https://github.com/QubesOS/qubes-doc) is discussed in [pull requests](https://github.com/Qubes-Community/qubes-doc/pulls) of our [forked qubes-doc](https://github.com/Qubes-Community/qubes-doc) repository.
 
-The project hosts various projects which have their own repositories. You can search them through the project's [main github page](https://github.com/Qubes-Community). Short descriptions of each project are available in [this readme](https://github.com/Qubes-Community/Contents/blob/master/projects-repos.md).
+The project hosts various projects which have their own repositories. They are referenced where appropriate in the README.md files in `code/` categories subfolders. Alternatively you can search them through the project's [main github page](https://github.com/Qubes-Community). 
 
 
 <a name="contributing"></a>
