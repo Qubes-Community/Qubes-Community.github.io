@@ -2,7 +2,7 @@
 
 We are an independent volunteer community striving to build and improve end-user content for [Qubes OS](https://www.qubes-os.org/), such as guides, documentation, code & scripts, tips, ...
 
-**This project's tasks are**
+**The project's tasks are**:
 
 * to make it easier for Qubes OS users to submit documentation, tips, suggestions and more generally, any resource related to the Qubes OS project. Despite the project being hosted on GitHub, knowing git is not a requirement.
 * to assist in getting documentation contributions QA'd and potentially submitted to the [official QubesOS documentation](https://www.qubes-os.org/doc/).
@@ -13,9 +13,15 @@ We are an independent volunteer community striving to build and improve end-user
 
 ### 2. Content
 
-The `docs/` and `code/` subfolders of the ['Contents'](https://github.com/Qubes-Community/Contents) repository respectively contain contributed documentation that has been reviewed, and code + links to third-party resources.
+The `docs/` and `code/` subfolders in the ['Contents'](https://github.com/Qubes-Community/Contents) repository contain contributed documentation that has been reviewed, and code + links to third-party resources.
 
-Ongoing reviews and QA of newly user-contributed content happen in [issues](https://github.com/Qubes-Community/Contents/issues) and [pull requests](https://github.com/Qubes-Community/Contents/pulls) (see section [Contributing](#contributing) below).
+Ongoing reviews and QA of user-contributed content slated for inclusion in the 'Contents' repository can be seen in [issues](https://github.com/Qubes-Community/Contents/issues) and [pull requests](https://github.com/Qubes-Community/Contents/pulls) (see section [Contributing](#contributing) below).
+
+Documentation suggestions are filed as [issues](https://github.com/Qubes-Community/Contents/issues) with a `Doc suggestion: ...` title. Their purpose is:
+- to test the waters about a documentation topic before spending further time to document it, as well as avoiding duplicate work by other community members.
+- to avoid forgetting about interesting topics (eg. from insightful [qubes-users](https://www.qubes-os.org/mailing-lists/#qubes-users) and [qubes-devel](https://www.qubes-os.org/mailing-lists/#qubes-devel) threads or personal user experience) when one doesn't have time to write full-fledged documentation on the spot.
+
+
 
 <!-- The project hosts various projects which have their own repositories. They are referenced where appropriate in the README.md files in `code/` categories subfolders. Alternatively you can search them through the project's [main github page](https://github.com/Qubes-Community). -->
 
@@ -23,14 +29,17 @@ Ongoing reviews and QA of newly user-contributed content happen in [issues](http
 <a name="contributing"></a>
 ### 3. Contributing
 
-Anyone is welcome to submit content they deem fit for inclusion in this community effort (or potentially in the official Qubes documentation). As Qubes OS users we value privacy and security so please keep the project's [collective vision](/strategic-statement.md) in mind when submitting new content.
+Anyone is welcome to submit content or documentation suggestions they deem fit for inclusion in this community effort (or potentially in the official Qubes documentation). As Qubes OS users we value privacy and security so please keep the project's [collective vision](/strategic-statement.md) in mind.
 
 Contributing content is done:
 
 - by submitting pull requests (a relatively easy process - see ["learning git"](#learning-git) below).
 - or, for users not comfortable with git, by [creating a new issue](https://github.com/Qubes-Community/Contents/issues) in the ['Contents'](https://github.com/Qubes-Community/Contents) repository. After optional discussion in the issue's thread and after the content is deemed fit for submission a community member will create a pull request on your behalf and take care of everything "git"; alternatively - if you prefer - he/she will help you creating your own pull request. Note however that in the former case you'll loose attribution/credit because github doesn't allow transferring a pull request's ownership.
 
+Documentation suggestions are filed as new issues with a a `Doc suggestion:` title (eg. `Doc suggestion: how to find out disk usage in R4`) and a quick description of the suggestion in the issue's body (if appropriate, with links to relevant mailing list posts or third-party resources). It isn't mandatory that the user who filed the issue write the documentation: anyone can pick up an issue and submit documentation.
+
 The ['Contents'](https://github.com/Qubes-Community/Contents) repository is where most pull requests and issues are expected to be submitted. Contributors who plan to submit content to the [official qubes-doc repository](https://github.com/QubesOS/qubes-doc) but who would like to get preliminary feedback/QA from the community can submit pull requests to the [forked qubes-doc repository](https://github.com/Qubes-Community/qubes-doc).
+
 
 <!-- 
 - submitting pull requests or issues related/specific to the various project repositories living under this project.-->
