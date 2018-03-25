@@ -15,7 +15,7 @@ We are an independent volunteer community striving to build and improve end-user
 
 The `docs/` and `code/` subfolders in the ['Contents'](https://github.com/Qubes-Community/Contents) repository contain contributed documentation that has been reviewed, and code + links to third-party resources.
 
-Ongoing reviews and QA of user-contributed content slated for inclusion in the 'Contents' repository can be seen in [issues](https://github.com/Qubes-Community/Contents/issues) and [pull requests](https://github.com/Qubes-Community/Contents/pulls) (see section [Contributing](#contributing) below).
+Ongoing reviews and QA of pending user-contributed content can be seen in [issues](https://github.com/Qubes-Community/Contents/issues) and [pull requests](https://github.com/Qubes-Community/Contents/pulls) (see section [Contributing](#contributing) below).
 
 Documentation suggestions are filed as [issues](https://github.com/Qubes-Community/Contents/issues) with a `Doc suggestion: ...` title. Their purpose is:
 - to test the waters about a documentation topic before spending further time to document it, as well as avoiding duplicate work by other community members.
